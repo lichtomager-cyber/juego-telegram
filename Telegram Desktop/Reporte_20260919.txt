@@ -1,0 +1,39 @@
+19/09/2026
+
+--- REPORTES DIURNOS ---
+
+*REPORTE 1* 
+Ticket:	#522104
+Cliente:	PATRICIA MILEXI RAMIREZ CANELON (Codigo: A-02130)
+CPE:	N/A
+AP:	10.0.20.6
+Falla:	Sin servicio
+Status:	Seguimiento
+Comentarios:	ONU Inaccesible, Se verificaron las conexiones eléctricas y la fibra.
+
+*REPORTE 2* 
+Ticket:	#361709
+Cliente:	WYNWOOD DEPORTES VE, C.A (Codigo: None)
+CPE:	10.0.5.2
+AP:	None
+Falla:	Sin servicio
+Status:	Resuelto 2do nivel
+Comentarios:	Se verifico el servicio y se observo el enlace degradado por la cual se le realizo una visita tecnica en sitio.
+
+*REPORTE 3* 
+Ticket:	#344736
+Cliente:	REPUESTOS VALENPARTS CA. (Codigo: A-02420)
+CPE:	10.0.5.246
+AP:	10.0.2.82
+Falla:	Lentitud
+Status:	Resuelto remoto
+Comentarios:	Se reiniciaron los equipos involucrados
+
+*REPORTE 4* 
+Ticket:	#991805
+Cliente:	Yulitza Lugo (Codigo: A-00312)
+CPE:	10.0.6.130
+AP:	10.0.2.81
+Falla:	Lentitud
+Status:	Resuelto remoto
+Comentarios:	Se reinicio el router del cliente

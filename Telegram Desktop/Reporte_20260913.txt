@@ -1,0 +1,59 @@
+13/09/2026
+
+--- REPORTES DIURNOS ---
+
+*REPORTE 1* 
+Ticket:	#331560
+Cliente:	Maria Barreto (Codigo: None)
+CPE:	10.0.7.41
+AP:	None
+Falla:	Sin servicio
+Status:	Seguimiento
+Comentarios:	Se validaron las conexiones con la antena y el router
+
+*REPORTE 2* 
+Ticket:	#698624
+Cliente:	Joseliana Miquilena (Codigo: A-01618)
+CPE:	10.0.7.35
+AP:	10.0.1.20
+Falla:	Sin servicio
+Status:	Resuelto remoto
+Comentarios:	Se validaron las conexiones del router con el mini UPS el cual estaba conectado al puerto de alimentación incorrecto
+
+*REPORTE 3* 
+Ticket:	#196894
+Cliente:	Mariela Ortega Caldevilla (Codigo: A-01799)
+CPE:	10.0.7.165
+AP:	10.0.2.132
+Falla:	Lentitud
+Status:	Resuelto remoto
+Comentarios:	Se cambio de servidor
+
+*REPORTE 4* 
+Ticket:	#758758
+Cliente:	Mileidy cruz (Codigo: A-01290)
+CPE:	10.0.5.91
+AP:	10.0.2.106
+Falla:	Configuracion del router
+Status:	Seguimiento
+Comentarios:	Se realizaron ajustes en el servicio, adicional el cliente quiere un cambio de clave
+
+--- REPORTES NOCTURNOS (GUARDIA) ---
+
+*REPORTE 1* 
+Ticket:	#436555
+Cliente:	JOSE ENRIQUE MENDOZA PAEZ (Codigo: A-02029)
+CPE:	N/A
+AP:	10.0.4.238
+Falla:	Configuracion del router
+Status:	Resuelto remoto
+Comentarios:	Cliente comenta que presenta problemas con la red wifi 5G, se realizaron ajustes en el router
+
+*REPORTE 2* 
+Ticket:	#283194
+Cliente:	Siegfried Voss (Codigo: A-02463)
+CPE:	10.0.6.127
+AP:	10.0.2.132
+Falla:	Lentitud
+Status:	Resuelto remoto
+Comentarios:	Se cambio de servidor

@@ -1,0 +1,41 @@
+21/09/2026
+
+--- REPORTES DIURNOS ---
+
+*REPORTE 1* 
+Ticket:	#911808
+Cliente:	Daka la ceiba- Av Bolivar (smartech) (Codigo: A-01687)
+CPE:	10.0.7.173
+AP:	10.0.2.55,10.0.20.3
+Falla:	Sin servicio
+Status:	Seguimiento
+Comentarios:	No se llega a la ONU
+
+*REPORTE 2* 
+Ticket:	#915579
+Cliente:	Hmotors Saul Leon - Corporacion vallelenuz (Codigo: A-01027-Intercambio)
+CPE:	10.0.5.251
+AP:	10.0.2.165
+Falla:	Lentitud
+Status:	Resuelto remoto
+Comentarios:	Se realizaron cambios de frecuencia
+
+--- REPORTES NOCTURNOS (GUARDIA) ---
+
+*REPORTE 1* 
+Ticket:	#748599
+Cliente:	Yulitza Lugo (Codigo: A-00312)
+CPE:	10.0.6.130
+AP:	10.0.2.81
+Falla:	Lentitud
+Status:	Resuelto remoto
+Comentarios:	Cambio de servidor
+
+*REPORTE 2* 
+Ticket:	#688507
+Cliente:	LABORATORIO CLINICO LA VIÑA, C.A (Codigo: A-02540)
+CPE:	10.0.20.3
+AP:	None
+Falla:	Sin servicio
+Status:	Resuelto remoto
+Comentarios:	Corte de fibra que afecto el servicio
